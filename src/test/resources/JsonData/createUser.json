@@ -1,0 +1,9 @@
+{
+"emp_firstname": "Cokonat",
+"emp_lastname": "string",
+"emp_middle_name": "string",
+"emp_gender": "Enter M for male or F for female",
+"emp_birthday": "2021-03-03",
+"emp_status": "string",
+"emp_job_title": "string"
+}

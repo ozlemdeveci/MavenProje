@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/features",
                     glue ="com/hrms/stepdefinitions",
-                    dryRun = true,
+                    dryRun = false,
                     tags = {"@PIM"},
                     strict = false,  //when fail in one step thats gonna be continue to execution
                     plugin = {"pretty",    //will print executed steps inside console
